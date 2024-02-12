@@ -1,0 +1,13 @@
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\bin\Debug\A5.exe.config
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\bin\Debug\A5.exe
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\bin\Debug\A5.pdb
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.csproj.AssemblyReference.cache
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.MainForm.resources
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.Properties.Resources.resources
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.csproj.GenerateResource.cache
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.csproj.CoreCompileInputs.cache
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.exe
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.pdb
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.AboutDCForm.resources
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.ReadHelpForm.resources
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week11\A5\A5\obj\Debug\A5.TechnicalSupportForm.resources

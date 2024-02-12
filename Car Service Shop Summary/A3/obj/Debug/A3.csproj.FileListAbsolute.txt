@@ -1,0 +1,10 @@
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\bin\Debug\A3.exe.config
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\bin\Debug\A3.exe
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\bin\Debug\A3.pdb
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\obj\Debug\A3.csproj.AssemblyReference.cache
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\obj\Debug\A3.MainForm.resources
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\obj\Debug\A3.Properties.Resources.resources
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\obj\Debug\A3.csproj.GenerateResource.cache
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\obj\Debug\A3.csproj.CoreCompileInputs.cache
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\obj\Debug\A3.exe
+C:\Users\unam0\Documents\College Courses Stuff\COSC 2100 (OOP 2)\Code\week8\A3\A3\obj\Debug\A3.pdb
